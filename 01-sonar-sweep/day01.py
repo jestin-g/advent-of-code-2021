@@ -1,5 +1,3 @@
-import requests
-
 depths = list()
 
 with open("raw_data") as raw_data:
