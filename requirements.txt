@@ -3,7 +3,7 @@ brotli==1.0.9
 chardet==4.0.0
 colorama==0.4.4
 cryptography==36.0.0
-Cython==0.29.24
+Cython==0.29.25
 dl==0.1.0
 importlib_metadata==4.8.2
 ipaddr==2.2.0
